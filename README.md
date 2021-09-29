@@ -26,9 +26,10 @@ This requires both node.js and  inquirer. Begin with ```npm init``` followed by 
 
 To generate professional looking readmes with ease.
 
-## Tests:
+## Contributing:
 
-To generate professional looking readmes with ease.
+Want to contriubte? Here's the guidelines: None at the moment!
+
 
 ## License:
 
