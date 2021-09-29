@@ -6,7 +6,7 @@
 
 ## Description:
 
-This project was created to assist in learning node.js. The end result is a javascript program that uses node.js to automatically create,  write to and save a README.md. I was greatly assisted by studying previous examples of this found here:
+This project was created to assist in learning node.js. The end result is a javascript program that uses node.js to automatically create,  write to and save a README.md. I was greatly assisted by studying previous examples of this found here: https://github.com/jpd61/README-generator
 
 
 ## Table of Contents
@@ -26,9 +26,10 @@ This requires both node.js and  inquirer. Begin with ```npm init``` followed by 
 
 To generate professional looking readmes with ease.
 
-## Tests:
+## Contributing:
 
-To generate professional looking readmes with ease.
+Want to contriubte? Here's the guidelines: None at the moment!
+
 
 ## License:
 
@@ -40,5 +41,5 @@ This application is covered under the MIT license.
 
 ## Questions:
 
-  Feel free to email me at: chasemurtaugh@gmail.com
+  Feel free to email me at: cmurtau@g.clemson.edu
 
