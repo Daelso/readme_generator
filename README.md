@@ -22,7 +22,7 @@ This project was created to assist in learning node.js. The end result is a java
 
 ## Installation Instructions:
 
-This requires both node.js and  inquirer. Begin with ```npm init``` followed by ```npm i inquirer```
+This requires both node.js and  inquirer. Open the terminal and begin with ```npm init``` followed by ```npm i inquirer``` as node modules are not included in this repo
 
 ## Usage:
 
