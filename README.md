@@ -6,7 +6,7 @@
 
 ## Description:
 
-This project was created to assist in learning node.js. The end result is a javascript program that uses node.js to automatically create,  write to and save a README.md. I was greatly assisted by studying previous examples of this found here:
+This project was created to assist in learning node.js. The end result is a javascript program that uses node.js to automatically create,  write to and save a README.md. I was greatly assisted by studying previous examples of this found here: https://github.com/jpd61/README-generator
 
 
 ## Table of Contents
