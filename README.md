@@ -40,5 +40,5 @@ This application is covered under the MIT license.
 
 ## Questions:
 
-  Feel free to email me at: chasemurtaugh@gmail.com
+  Feel free to email me at: cmurtau@g.clemson.edu
 
