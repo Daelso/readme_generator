@@ -26,15 +26,19 @@ ${data.description}
 
 ## Installation Instructions:
 
-${data.installInstructions}
+Installation instructions: ${data.installInstructions}
 
 ## Usage:
 
-${data.usageInstructions}
+Usage instructions: ${data.usageInstructions}
+
+## Contributing:
+
+Want to contriubte? Here's the guidelines: ${data.contributionInstructions}
 
 ## Tests:
 
-${data.usageInstructions}
+Current test instructions: ${data.tests}
 
 ## License:
 

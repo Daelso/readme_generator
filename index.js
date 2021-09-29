@@ -68,7 +68,7 @@ async function init() {
     var answers = await prompts()
     console.log(answers)
     const generateREADME = generateMarkdown(answers);
-    await writeFileAsync('./test/README.md', generateREADME);    
+    await writeFileAsync('./sample_readme/README.md', generateREADME);    
 
 }
 
