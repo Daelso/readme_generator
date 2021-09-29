@@ -44,7 +44,7 @@ return inquirer.prompt([
       },
       {
         type: 'input',
-        message: 'Are there any tests included? If so, list them:',
+        message: 'Are there any tests instructions? If so, list them:',
         name: 'tests',
       },
       {

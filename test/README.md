@@ -1,12 +1,12 @@
 
-# Title: Warhammer 
+# Title: Node.js Readme Generator 
 
 ![badge](https://img.shields.io/badge/license-MIT-darkred)
 
 
 ## Description:
 
-A fun, multiplayer warhammer project
+This project was created to assist in learning node.js. The end result is a javascript program that uses node.js to automatically create,  write to and save a README.md. I was greatly assisted by studying previous examples of this found here:
 
 
 ## Table of Contents
@@ -20,15 +20,15 @@ A fun, multiplayer warhammer project
 
 ## Installation Instructions:
 
-```npm init``` ```npm i inquirer```
+This requires both node.js and  inquirer. Begin with ```npm init``` followed by ```npm i inquirer```
 
 ## Usage:
 
-To learn to auto generate readmes
+To generate professional looking readmes with ease.
 
 ## Tests:
 
-To learn to auto generate readmes
+To generate professional looking readmes with ease.
 
 ## License:
 
