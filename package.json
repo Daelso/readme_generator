@@ -1,14 +1,27 @@
 {
-  "name": "static-site",
+  "name": "readmegen",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Your Task",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Chase",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^6.3.1"
-  }
+    "inquirer": "^6.5.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daelso/readme_generator.git"
+  },
+  "keywords": [
+    "readme",
+    "generator"
+  ],
+  "bugs": {
+    "url": "https://github.com/Daelso/readme_generator/issues"
+  },
+  "homepage": "https://github.com/Daelso/readme_generator#readme"
 }
