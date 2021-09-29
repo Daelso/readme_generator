@@ -32,9 +32,30 @@ return inquirer.prompt([
         name: 'usageInstructions',
       },
       {
+        type: 'list',
+        message: 'Please select the license you would like to use:',
+        name: 'license',
+        choices: ['MIT', 'Apache', 'Academic', 'Mozilla', 'Open', 'GNU', 'ISC']
+      },
+      {
         type: 'input',
         message: 'Please list any contribution guidelines:',
         name: 'contributionInstructions',
+      },
+      {
+        type: 'input',
+        message: 'Are there any tests included? If so, list them:',
+        name: 'tests',
+      },
+      {
+        type: 'input',
+        message: 'Please enter your github username:',
+        name: 'github',
+      },
+      {
+        type: 'input',
+        message: 'Please enter your email:',
+        name: 'email',
       },
     ])}
 
