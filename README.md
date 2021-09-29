@@ -10,6 +10,8 @@ This project was created to assist in learning node.js. The end result is a java
 
 ![Demonstration video](https://www.youtube.com/watch?v=bCvQ8fNOwxA)
 
+[![Demo video here](https://img.youtube.com/vi/v=bCvQ8fNOwxA/0.jpg)](https://www.youtube.com/watch?v=bCvQ8fNOwxA)
+
 
 ## Table of Contents
 - [Description](#description)
