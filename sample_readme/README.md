@@ -1,12 +1,12 @@
 
-# Title: Readme gen 
+# Title: Test project 
 
 ![badge](https://img.shields.io/badge/license-MIT-darkred)
 
 
 ## Description:
 
-Readme generator using node js
+A test project to show off our generator
 
 
 ## Table of Contents
@@ -20,11 +20,11 @@ Readme generator using node js
 
 ## Installation Instructions:
 
-Installation instructions: npm init npm i inquirer 
+Installation instructions: npm init npm i inquirer
 
 ## Usage:
 
-Usage instructions: to generate readmes
+Usage instructions: To generate readmes
 
 ## Contributing:
 
