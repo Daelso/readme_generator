@@ -1,7 +1,7 @@
 
 # Title: Node.js Readme Generator 
 
-![badge](https://img.shields.io/badge/license-MIT-darkred)
+![badge](https://img.shields.io/badge/license-MIT-darkred) [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
 
 
 ## Description:
